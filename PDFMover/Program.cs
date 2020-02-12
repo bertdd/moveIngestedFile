@@ -10,7 +10,7 @@ namespace DDigitIngest
     {
       if (args.Length < 1)
       {
-        Console.WriteLine("Usage: PDFMover parentFolder [filesPerFolder] [fileOffset]");
+        Console.WriteLine("Usage: IngestFileMover parentFolder [filesPerFolder] [fileOffset]");
         return;
       }
 

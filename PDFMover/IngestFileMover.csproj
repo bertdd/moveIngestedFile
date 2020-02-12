@@ -7,7 +7,7 @@
     <ProjectGuid>{7AB36086-5D5B-4DB6-AFA9-F4E2D6646463}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>PDFMover</RootNamespace>
-    <AssemblyName>PDFMover</AssemblyName>
+    <AssemblyName>IngestFileMover</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
