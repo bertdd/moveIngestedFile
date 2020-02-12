@@ -48,7 +48,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Adapl\ingestSubFolders.ada" />
+    <None Include="Adapl\ingestSubFolders.bin" />
     <None Include="App.config" />
+    <None Include="Documentation\Ingest in subfolders.pdf" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
